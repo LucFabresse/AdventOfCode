@@ -5,7 +5,7 @@ Thanks to [juliendelplanque/AdventOfCode2017WithPharo](https://github.com/julien
 All my source code is in the `src` subfolder.
 
 
-## Iceberg UI loading method
+## Loading through Iceberg  UI 
 
 You can load it in Pharo using Iceberg following these steps:
 
@@ -22,7 +22,7 @@ You can load it in Pharo using Iceberg following these steps:
 
 Then browse my `AdventOfCode` package
 
-## Iceberg script (Pharo 7.0 only)
+## Iceberg loading script (Pharo 7.0 only)
 	
 	"customize the following 3 lines if needed"
 	repoURL := 'git@github.com:LucFabresse/AdventOfCode2017.git'.
@@ -42,7 +42,7 @@ Then browse my `AdventOfCode` package
 		baseline: baselineName;
 		load: #()	
 
-## Non-Iceberg loading method
+## Metacello loading script
 
 	Metacello new
 	  baseline: 'AdventOfCode';
