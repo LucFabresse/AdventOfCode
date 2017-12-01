@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AOCExoTest",
+	"category" : "AdventOfCode",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AOC2017Day1Puzzle1Test",
+	"type" : "normal"
+}
