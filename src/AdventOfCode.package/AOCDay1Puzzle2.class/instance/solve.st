@@ -1,7 +1,7 @@
 solving
 solve
 	"
-	AOC2017Day1Puzzle2Test >> testSamples
+	AOCDay1Puzzle2Test
 	
 	self run >>> 1166 
 	"

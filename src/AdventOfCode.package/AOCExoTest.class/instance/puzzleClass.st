@@ -1,3 +1,0 @@
-accessing
-puzzleClass
-	self subclassResponsibility 

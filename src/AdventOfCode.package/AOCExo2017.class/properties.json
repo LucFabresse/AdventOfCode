@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "TestCase",
+	"super" : "Object",
 	"category" : "AdventOfCode",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"solver"
+		"inputData"
 	],
-	"name" : "AOCExoTest",
+	"name" : "AOCExo2017",
 	"type" : "normal"
 }

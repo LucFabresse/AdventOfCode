@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "LucFabresse 12/1/2017 15:52",
+	"super" : "AOCDay1Puzzle1",
+	"category" : "AdventOfCode",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AOCDay1Puzzle2",
+	"type" : "normal"
+}
