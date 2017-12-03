@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AOCExo2017",
+	"category" : "AdventOfCode",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AOCDay3Puzzle1",
+	"type" : "normal"
+}
