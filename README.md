@@ -8,5 +8,5 @@ All my source code is in the `src` subfolder.
 
 	Metacello new
 	  baseline: 'AdventOfCode';
-	  repository: 'github://LucFabresse/AdventOfCode2017:master/src';
+	  repository: 'github://LucFabresse/AdventOfCode:master/src';
 	  load.
